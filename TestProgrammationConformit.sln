@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProgrammationConformit", "TestProgrammationConformit\TestProgrammationConformit.csproj", "{BD5232F7-6B8A-4858-9FF3-9A32E8380F68}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD5232F7-6B8A-4858-9FF3-9A32E8380F68}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD5232F7-6B8A-4858-9FF3-9A32E8380F68}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD5232F7-6B8A-4858-9FF3-9A32E8380F68}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD5232F7-6B8A-4858-9FF3-9A32E8380F68}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5BAC316-4CFD-4181-9853-2552FA23B0B0}
+	EndGlobalSection
+EndGlobal
